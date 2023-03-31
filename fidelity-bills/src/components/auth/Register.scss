@@ -1,0 +1,67 @@
+.new-acc{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 28px;
+    color: #4C34B2;
+}
+.labelling{
+    display: block;
+}
+    #usernamee{
+    padding-left: 20px;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight:500;
+    font-size: 14px;
+    line-height: 16px;
+    color: #4C34B2;        
+}
+
+#usernamee::placeholder{
+    color: #4C34B2;        
+}
+.labelling{
+font-family: 'Roboto Condensed';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 18px;
+color: #4C34B2;
+}
+.reg-text{
+   text-align: center;
+   font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    color: #151517;
+
+}
+.helps{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 14px;
+    line-height: 16px;
+    color: #151517;
+    text-decoration: none;
+}
+.google{
+     cursor: pointer;
+    
+     height: 50px;
+}
+
+.p-btn{
+  height: 10vh;
+ 
+}
+.gbg{
+width: 60%;
+margin-left: auto;
+margin-right: auto;
+}
+
